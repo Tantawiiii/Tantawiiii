@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Ahmed Ramadan
 
-Hi there, I'm **Ahmed Ramadan**, a **Computer Science student** and Software Engneering.
+Hi there, I'm **Ahmed Ramadan**, a **Computer Science student** and **Software Engneering**.
 
  which is a minority in Egypt. Now I am studying Computer Science at **[EELU](http://www.eelu.edu.eg/)**.
 
