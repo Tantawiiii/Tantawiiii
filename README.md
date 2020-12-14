@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Ahmed Ramadan
 
-Hi there, I'm **Ahmed Ramadan**, a **Computer Science student**.
+Hi there, I'm **Ahmed Ramadan**, a **Computer Science student** and Software Engneering.
 
  which is a minority in Egypt. Now I am studying Computer Science at **[EELU](http://www.eelu.edu.eg/)**.
 
-I love programming and I love JAVA.
+I love programming, Software Development as general and I love working using JAVA.
 
 I'm  Software Engineer, Android (Java | Kotlin) are mobile technology experts who create applications for mobile devices using the Android platform. Usual work duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional graduated from Egyptian E-Learning University EELU in 2021. 
 
