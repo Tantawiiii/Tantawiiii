@@ -18,7 +18,7 @@ I'm  Software Engineer, Android (Java | Kotlin) are mobile technology experts wh
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently a Computer Science student at my 4th year; 
+- 👨🏽‍💻 I’m Software Engineer, Android (Java | Kotlin); 
 - 🤔 My interests are with Mobile Development and Android Dev programming;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
