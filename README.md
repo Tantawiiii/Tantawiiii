@@ -7,7 +7,7 @@
 
 **Hi there, I'm a **Software Engneering** for Mobile **application Development**.**
 
-which is a minority in Egypt. Now I am studying Computer Science at **[EELU](http://www.eelu.edu.eg/)**.
+which is a minority in Egypt. Now I am studying Computer Science at **[Ain Shamse ]**.
 
 **I love programming, Software Development as general and I love working using JAVA.**
 
