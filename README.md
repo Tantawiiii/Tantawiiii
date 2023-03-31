@@ -13,7 +13,7 @@ which is a minority in Egypt. Now I am studying Computer Science at **[Ain Shams
 
 I love sharing my knowledge and experience, contribute to open source projects related to Java, and sharing PoCs & problems as code on this repository.
 
-I'm  Software Engineer, Android (Java | Kotlin) are mobile technology experts who create applications for mobile devices using the Android platform. Usual work duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional graduated from Egyptian E-Learning University EELU in 2021. 
+I'm  Software Engineer, Android (Java | Kotlin) are mobile technology experts who create applications for mobile devices using the Android platform. Usual work duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional graduated in 2021. 
 
 
 ### Talking about Personal Stuffs:
