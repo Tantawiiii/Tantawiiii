@@ -16,6 +16,11 @@ I love sharing my knowledge and experience, contribute to open source projects r
 I'm  Software Engineer, Android (Java | Kotlin) are mobile technology experts who create applications for mobile devices using the Android platform. Usual work duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional graduated in 2021. 
 
 
+Passionate about continuous learning and staying up-to-date with the latest technologies and trends in the Android development community.
+
+I have a keen eye for detail and am committed to delivering high-quality work to my clients. I believe in collaborating closely with my clients to ensure their vision is brought to life in the final product.
+
+
 ### Talking about Personal Stuffs:
 
 - 👨🏽‍💻 I’m Software Engineer, Android (Java | Kotlin); 
