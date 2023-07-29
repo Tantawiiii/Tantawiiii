@@ -28,11 +28,11 @@ I have a keen eye for detail and am committed to delivering high-quality work to
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
-- 🎯 Ask me about OOP, Java, Mobile, RESTful APIs, Database, Architecture, Design Patterns, Testing, Security, Algorithm, and data Structure.
+- 🎯 Ask me about OOP, Java, Mobile, RESTful APIs, Database, Architecture, Design Patterns, Testing, Security, Algorithm, and Data Structure.
 - ⚡ How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="380" height="280">
+<img align="center" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="480" height="380">
 
