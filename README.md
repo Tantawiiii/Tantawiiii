@@ -1,4 +1,4 @@
-u## Hey 👋, I'm Ahmed Ramadan
+## Hey 👋, I'm Ahmed Ramadan
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/rmdaniii4)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/a7_med_01)
@@ -7,7 +7,7 @@ u## Hey 👋, I'm Ahmed Ramadan
 
 **Hi there, I'm a **Software Engneering** for Mobile **application Development**.**
 
-which is a minority in Egypt. Now I am studying Computer Science at **[Ain Shamse ]**.
+which is a minority in Egypt. Now I am studying Computer Science at **"Ain Shams University "**.
 
 **I love programming, Software Development as general and I love working using JAVA.**
 
