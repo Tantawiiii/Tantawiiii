@@ -1,11 +1,22 @@
-## Hey 👋, I'm Ahmed Ramadan
+
+## Hey 👋, I'm Ahmed Tantawy
 
 [![Twitter URL](https://img.shields.io/static/v1?color=red&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/rmdaniii4)
 [![Instagram URL](https://img.shields.io/static/v1?color=red&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/a7_med_01)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/rmdaniii/)
 [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://web.facebook.com/profile.php?id=100005190047714)
 
-**Hi there, I'm a **Software Engneering** for Mobile **application Development**.**
+&ensp;
+
+
+<div align="center" style="color: red;">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F76C34&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+My+Friend!+👋;+I'm+Tantawii!+🙋🏻‍♂️;+I'm+a+Mobile+Engineer+👨‍💻;" />
+</div>
+
+
+&ensp;
+
+**Hi There, I'm a **Software Engneering** for Mobile **application Development**.**
 
 Now I am studying Computer Science at **"Ain Shams University "**.
 
@@ -23,7 +34,7 @@ I have a keen eye for detail and am committed to delivering high-quality work to
 
 ### Talking about Personal Stuff:
 
-- 👨🏽‍💻 I’m a Software Engineer, Android (Java | Kotlin); 
+- 👨🏽‍💻 I’m a Software Engineer, Android (Java | Kotlin) &  Flutter; 
 - 🤔 My interests are in Mobile Development and Android Dev programming;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
