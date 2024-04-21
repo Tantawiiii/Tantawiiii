@@ -20,7 +20,7 @@
 
 Now I am studying Computer Science at **"Ain Shams University "**.
 
-**I love programming, Software Development as general and I love working using JAVA.**
+**I love programming, Software Development in general and I love working using JAVA, Kotlin and Dart.**
 
 I love sharing my knowledge and experience, contributing to open-source projects related to Java, and sharing PoCs & problems as code on this repository.
 
@@ -35,11 +35,11 @@ I have a keen eye for detail and am committed to delivering high-quality work to
 ### Talking about Personal Stuff:
 
 - 👨🏽‍💻 I’m a Software Engineer, Android (Java | Kotlin) &  Flutter; 
-- 🤔 My interests are in Mobile Development and Android Dev programming;
+- 🤔 My interests are in Mobile Development Apps;
 - 💼 I’m pursuing a Bachelor's degree in Computer Science;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
-- 🎯 Ask me about OOP, Java, Kotlin, Mobile, RESTful APIs, Database, Architecture, Design Patterns, Testing, Security, Algorithm, and Data Structure.
+- 🎯 Ask me about OOP, SOLID, Java, Kotlin, Mobile, Flutter, RESTful APIs, Database, Architecture, Design Patterns, Testing, Security, Algorithm, and Data Structure.
 - ⚡ How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.
 
 
