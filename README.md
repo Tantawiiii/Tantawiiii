@@ -10,7 +10,7 @@
 
 
 <div align="center" style="color: red;">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F76C34&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+My+Friend!+👋;+I'm+Tantawii!+🙋🏻‍♂️;+I'm+a+Mobile+Engineer+👨‍💻;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=F76C34&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+My+Friend!+👋;+I'm+a+Mobile+Engineer+👨‍💻;" />
 </div>
 
 
