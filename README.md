@@ -16,15 +16,15 @@
 
 &ensp;
 
-**Hi There, I'm a **Software Engneering** for Mobile **application Development**.**
+**Hi There, I'm a **Software Engneering** for Mobile Engineer ( Android Native Java | Kotlin & Flutter )**.**
 
-Now I am studying Computer Science at **"Ain Shams University "**.
+Now I am studying Computer Science.
 
-**I love programming and software Development in general and I love working using JAVA, Kotlin, and Dart.**
+**I love programming and Software Development in general and I love working using JAVA, Kotlin, and Dart.**
 
 I love sharing my knowledge and experience, contributing to open-source projects related to Java, and sharing PoCs & problems as code on this repository.
 
-I'm  a Software Engineer, Android (Java | Kotlin), and mobile technology expert who creates applications for mobile devices using the Android platform. Our usual work duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional who graduated in 2021. 
+I'm  a Software Engineer, Android (Java | Kotlin), and mobile technology expert who creates applications for mobile devices using the Android platform. Our usual duties are designing new features, collaborating with cross-functional teams, testing code, fixing bugs, and improving application efficiency. Android app development expertise, creativity, problem-solving skills, an interest in technology, and user experience understanding. Strong information technology professional who graduated in 2021. 
 
 
 Passionate about continuous learning and staying up-to-date with the latest technologies and trends in the Android development community.
