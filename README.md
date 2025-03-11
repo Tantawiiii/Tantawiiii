@@ -16,7 +16,7 @@
 
 &ensp;
 
-**Hi There, I'm a **Software Engineer for Mobile Dev ( Android & Flutter ) & Java & Kotlin & Dart & Jetpack Compose** 📱.
+#### Hi There, I'm a **Software Engineer for Mobile Dev ( Android & Flutter ) & Java & Kotlin & Dart & Jetpack Compose** 📱.
 
 Now I am studying Computer Science.
 
