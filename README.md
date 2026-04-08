@@ -1,20 +1,34 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Ahmed%20Tantawy&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Mobile%20Software%20Engineer%20%7C%20Flutter%20%26%20Android&descSize=18&descAlignY=58&descColor=a5c8ff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0f1b2d,100:1f6feb&height=220&section=header&text=Ahmed%20Tantawy&fontSize=54&fontColor=ffffff&fontAlignY=36&fontAlign=50&desc=Mobile%20Software%20Engineer%20%7C%20Flutter%20%26%20Android&descSize=17&descAlignY=56&descColor=7db9f5&animation=fadeIn&stroke=1f6feb&strokeWidth=1" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&height=45&lines=Flutter+%26+Android+Engineer+%F0%9F%93%B1;4%2B+Years+%7C+100K%2B+Downloads+%F0%9F%9A%80;FinTech+%7C+Logistics+%7C+LMS+%7C+White-Label;Clean+Architecture+%7C+MVVM+%7C+Bloc" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rmdaniii/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtramadan4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tantawiiii)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rmdaniii4)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a7_med_01)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=580&height=40&lines=Flutter+%26+Android+Engineer+%F0%9F%93%B1;4%2B+Years+%7C+100K%2B+Downloads+%F0%9F%9A%80;FinTech+%C2%B7+Logistics+%C2%B7+LMS+%C2%B7+White-Label;Clean+Architecture+%7C+MVVM+%7C+Bloc" />
 
 <br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/rmdaniii/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:ahmedtramadan4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white&labelColor=161B22)](https://github.com/Tantawiiii)
+[![Twitter](https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1D9BF0)](https://twitter.com/rmdaniii4)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/a7_med_01)
+
+<br/>
+
+![](https://img.shields.io/badge/Status-Open%20to%20Work-3fb950?style=flat-square&logo=circle&logoColor=white)
+![](https://img.shields.io/badge/Location-Cairo%2C%20Egypt-8b949e?style=flat-square&logo=googlemaps&logoColor=white)
+![](https://img.shields.io/badge/Phone-%2B20%201094642577-30363d?style=flat-square&logo=phone&logoColor=white)
 <img src="https://komarev.com/ghpvc/?username=Tantawiiii&label=Profile+Views&color=1f6feb&style=flat-square" />
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/4%2B_Years-Experience-1f6feb?style=flat-square&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/100K%2B-Downloads-3fb950?style=flat-square&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/12%2B-Projects_Shipped-bc8cff?style=flat-square&labelColor=0d1117" /></td>
+<td align="center"><img src="https://img.shields.io/badge/EG·SA·AE·IQ·DE-Markets-ffa657?style=flat-square&labelColor=0d1117" /></td>
+</tr>
+</table>
 
 </div>
 
